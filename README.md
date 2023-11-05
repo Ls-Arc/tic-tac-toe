@@ -1,8 +1,4 @@
 # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+App resultade de seguir un curso de react con vite.
+En el futuro planeo seguir mejorando la app agregandole nuevas funcionalidades a medida que vaya profundizando en el tema.
+Entre alguna de estas la opcion de guardar partidas y de jugar en modo online con amigos 
