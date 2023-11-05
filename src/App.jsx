@@ -47,7 +47,7 @@ function App(){
     
   return (
     <main className='board'>
-      <h1>Tic tac toe</h1>
+      <h1>Jueguito del triki</h1>
       <Buttonreset resetGame={resetGame} setBoard={setBoard} setWinner={setWinner}
          >Jugar de nuevo</Buttonreset>
          <Table 
